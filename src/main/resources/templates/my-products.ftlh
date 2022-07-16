@@ -19,7 +19,7 @@
                 <div class="input-group mb-3">
                     <input type="number" required class="form-control" id="price" name="price">
                     <div class="input-group-append">
-                        <span class="input-group-text">₽</span>
+                        <span class="input-group-text">$</span>
                     </div>
                 </div>
             </div>
